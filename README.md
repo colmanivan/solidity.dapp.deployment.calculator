@@ -17,3 +17,6 @@ npx hardhat test
 npx hardhat run scripts/deploy.js --network sepolia
 npx hardhat verify --network sepolia 0x03E615238D97FC376ed25c673E5dcB416621542B
 ```
+
+![how to connect on MetaMask](/images/01.png)
+![sepolia etherscan](/images/02.png)
